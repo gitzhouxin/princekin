@@ -69,3 +69,5 @@ python –m pip install mitmproxy
 #### config 对应的配置文件，源码编译后，将该文件夹放到对应的release/debug目录下，可正常运行
 #### princekinSetup.exe 打包好的安装文件，可直接安装使用
 
+## 界面效果图
+![image](C:\Users\changhe\Desktop\QQ截图20171117160829.png)
