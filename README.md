@@ -70,4 +70,4 @@ python –m pip install mitmproxy
 #### princekinSetup.exe 打包好的安装文件，可直接安装使用
 
 ## 界面效果图
-![image](C:\Users\changhe\Desktop\QQ截图20171117160829.png)
+![image](https://github.com/chorushe/princekin/blob/master/image-folder/princekin.png)
