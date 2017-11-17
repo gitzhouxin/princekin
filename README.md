@@ -51,4 +51,4 @@
 - #### QT Creater
 
 ## 界面效果图
-![image](C:\Users\changhe\Desktop\QQ截图20171117160829.png)
+![image](https://github.com/chorushe/princekin/blob/master/image-folder/princekin.png)
