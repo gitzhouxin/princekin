@@ -35,11 +35,12 @@ Path中加入：
 %JRE_HOME%\bin;
 %PYTHON_HOME%;
 %WINRAR_HOME%;
-- *【注】 
 
-1、上述路径均为样例，请根据自己的实际安装目录进行修改；
+*【注】*
 
-2、23.0.2是android sdk版本，请根据具体版本进行修改。*
+*1、上述路径均为样例，请根据自己的实际安装目录进行修改；*
+
+*2、23.0.2是android sdk版本，请根据具体版本进行修改。*
 ### mitmprox安装
 
 Mitmproxy是用于抓包的、基于python安装第三方工具，即可抓取http协议数据，也可抓取https协议数据。
@@ -63,4 +64,8 @@ python –m pip install mitmproxy
 - Windows系统
 - QT Creater
 
+## 文件（夹）说明
+#### princekin qt源码
+#### config 对应的配置文件，源码编译后，将该文件夹放到对应的release/debug目录下，可正常运行
+#### princekinSetup.exe 打包好的安装文件，可直接安装使用
 
